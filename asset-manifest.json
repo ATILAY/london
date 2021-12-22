@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/uk-helper-finder/static/css/main.b0ac95ed.css",
-    "main.js": "/uk-helper-finder/static/js/main.81409e66.js",
-    "static/js/787.d9fea20e.chunk.js": "/uk-helper-finder/static/js/787.d9fea20e.chunk.js",
-    "static/media/loading.gif": "/uk-helper-finder/static/media/loading.77dd819870fd828d8944.gif",
-    "index.html": "/uk-helper-finder/index.html",
-    "main.b0ac95ed.css.map": "/uk-helper-finder/static/css/main.b0ac95ed.css.map",
-    "main.81409e66.js.map": "/uk-helper-finder/static/js/main.81409e66.js.map",
-    "787.d9fea20e.chunk.js.map": "/uk-helper-finder/static/js/787.d9fea20e.chunk.js.map"
+    "main.css": "/london/static/css/main.b0ac95ed.css",
+    "main.js": "/london/static/js/main.85c29215.js",
+    "static/js/787.d9fea20e.chunk.js": "/london/static/js/787.d9fea20e.chunk.js",
+    "static/media/loading.gif": "/london/static/media/loading.77dd819870fd828d8944.gif",
+    "index.html": "/london/index.html",
+    "main.b0ac95ed.css.map": "/london/static/css/main.b0ac95ed.css.map",
+    "main.85c29215.js.map": "/london/static/js/main.85c29215.js.map",
+    "787.d9fea20e.chunk.js.map": "/london/static/js/787.d9fea20e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0ac95ed.css",
-    "static/js/main.81409e66.js"
+    "static/js/main.85c29215.js"
   ]
 }
